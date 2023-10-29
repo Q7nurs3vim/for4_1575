@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\bin\Debug\net6.0-windows\for4_1575.exe
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\bin\Debug\net6.0-windows\for4_1575.deps.json
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\bin\Debug\net6.0-windows\for4_1575.runtimeconfig.json
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\bin\Debug\net6.0-windows\for4_1575.dll
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\bin\Debug\net6.0-windows\for4_1575.pdb
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.Form1.resources
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.csproj.GenerateResource.cache
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.AssemblyInfo.cs
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.dll
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\refint\for4_1575.dll
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.pdb
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\for4_1575.genruntimeconfig.cache
+C:\Users\user\Desktop\nursevim\for4_1575\for4_1575\obj\Debug\net6.0-windows\ref\for4_1575.dll
